@@ -62,7 +62,7 @@
 <div class="card card-solid">
 	<div class="card-body pb-0">
 		<div class="justify-content-center mb-5">
-			<h2 class="text-center"><b>Pilihan Sepatu</b></h2>
+			<h2 class="text-center"><b>Pilihan Sepatu lebih banyak</b></h2>
 		</div>
 		<div class="row d-flex align-items-stretch">
 			<?php

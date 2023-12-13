@@ -50,7 +50,7 @@
 			<div class="callout callout-info mr-2">
 				<h2><strong>About Us</strong></h2>
 				<p class="text-break">Didirikan pada tahun 2015, kami adalah perusahaan kecil namun penuh semangat yang berdedikasi untuk melayani penggemar sepatu sneaker di seluruh Indonesia. Fokus utama kami adalah menawarkan produk dengan kualitas terbaik dengan harga terendah.
-					dan kami menyediakan produk dengan kualitas terbaeek !! 
+					dan kami menyediakan produk dengan kualitas terbaeek gini gni gni !! 
 				</p>
 				<span></span>
 			</div>

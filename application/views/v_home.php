@@ -49,7 +49,9 @@
 		<div class="col-sm-6 mt-1 d-block">
 			<div class="callout callout-info mr-2">
 				<h2><strong>About Us</strong></h2>
-				<p class="text-break">Didirikan pada tahun 2015, kami adalah perusahaan kecil namun penuh semangat yang berdedikasi untuk melayani penggemar sepatu sneaker di seluruh Indonesia. Fokus utama kami adalah menawarkan produk dengan kualitas terbaik dengan harga terendah.</p>
+				<p class="text-break">Didirikan pada tahun 2015, kami adalah perusahaan kecil namun penuh semangat yang berdedikasi untuk melayani penggemar sepatu sneaker di seluruh Indonesia. Fokus utama kami adalah menawarkan produk dengan kualitas terbaik dengan harga terendah.
+					dan kami menyediakan produk dengan kualitas terbaeek !! 
+				</p>
 				<span></span>
 			</div>
 		</div>
